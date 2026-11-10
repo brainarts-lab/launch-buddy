@@ -1,0 +1,15 @@
+{
+  "name": "launch-buddy",
+  "version": "1.0.0",
+  "author": "@brainarts-lab",
+  "description": "Paste your README. Get a one-line pitch, a launch post and a 60-second demo script.",
+  "hermes_requires": ">=0.23.0",
+  "env_requires": [],
+  "distribution_owned": [
+    "SOUL.md",
+    "config.yaml",
+    "skills",
+    "cron",
+    "distribution.yaml"
+  ]
+}
