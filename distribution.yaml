@@ -1,6 +1,6 @@
 {
   "name": "launch-buddy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "@brainarts-lab",
   "description": "Paste your README. Get a one-line pitch, a launch post and a 60-second demo script.",
   "hermes_requires": ">=0.23.0",
